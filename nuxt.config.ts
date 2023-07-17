@@ -2,5 +2,5 @@
 export default defineNuxtConfig({
   devtools: { enabled: true },
   modules: ['@nuxtjs/ionic'],
-  //css: ["@/theme/variables.css"],
+  css: ["@/theme/variables.css"],
 })
